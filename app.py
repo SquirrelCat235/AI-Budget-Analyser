@@ -7,7 +7,7 @@ from sklearn.linear_model import LinearRegression
 from datetime import datetime, timedelta
 
 # Configuration
-st.set_page_config(page_title="Standout Budget Analyzer", page_icon="💸", layout="wide")
+st.set_page_config(page_title="AI Budget Analyser", page_icon="💸", layout="wide")
 
 st.markdown("""
 <style>
