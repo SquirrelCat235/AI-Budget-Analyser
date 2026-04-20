@@ -269,4 +269,4 @@ else:
 # Footer
 st.markdown("---")
 st.markdown("### 📝 About")
-st.markdown("This standout dashboard is built with **Python**, **Streamlit**, **Scikit-learn** and **Plotly**.")
+st.markdown("This dashboard is built with **Python**, **Streamlit**, **Scikit-learn** and **Plotly**.")
